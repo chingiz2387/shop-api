@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.attractor-school.com:30022/flintstoneChurchill/shop-api.git"
+    "url": "https://github.com/chingiz2387/shop-api.git"
   },
   "author": "",
   "license": "ISC",
